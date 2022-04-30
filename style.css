@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&family=Orelega+One&family=Square+Peg&family=Titillium+Web:wght@200;300;400;600&family=Ubuntu:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Varela+Round&display=swap');
+
+* {
+  font-family: 'Orelega One', 'Lora', serif, 'Nunito', sans-serif, 'Square Peg', cursive, 'Ubuntu', 'Varela Round';
+  color: #fff;
+  text-align: center;
+}
+
+body {
+  background-color: darkslategray;
+}
+
+#app .title {
+  padding-bottom: 30px;
+}
+
+#app .title h6 {
+    color: #c7c7c7;
+}
+
+#app h2,
+#app h6,
+button,
+.character-card .card-title,
+.character-card .card-text,
+.character-card .card-text span {
+  text-transform: capitalize;
+}
+
+.character-card .card-title,
+.character-card .card-text {
+  color: darkslategray;
+}
+
+.footer-bottom {
+  text-align: center;
+  background-color: darkslategray;
+  border-top: thin solid #fff;
+  padding: 20px 0;
+  font-size: 12px;
+  text-transform: capitalize;
+}
+
+.footer-bottom a {
+  color: #c7c7c7;
+  text-decoration: none;
+}
