@@ -14,7 +14,7 @@
       <div class="container copyright">
         <p class="pb-0 mb-0">
           Copyright © 2022 | developed by
-          <a href="index.html">nancy khaled</a>, All Right
+          <a href="https://nancy-khaled.netlify.app/">nancy khaled</a>, All Right
           Reserved.
         </p>
       </div>
